@@ -1,138 +1,138 @@
 {
-    "RepositoryName": "YangJiii Repo's",
-    "RepositoryDescription": "YangJiii Repo's For You",
-    "RepositoryAuthor": "YangJiii",
-    "RepositoryIcon": "https://github.com/YangJiiii/repomdc/raw/main/Images/Avatar/Avatar.jpg",
-    "RepositoryWebsite": "https://github.com/YangJiiii/repomdc/",
+    "RepositoryName": "p0s3id0n Repo's",
+    "RepositoryDescription": "p0s3id0n Repo's For You",
+    "RepositoryAuthor": "p0s3id0n",
+    "RepositoryIcon": "https://github.com/p0s3id0nvn/repomdc/raw/main/Images/Avatar/Avatar.jpg",
+    "RepositoryWebsite": "https://github.com/p0s3id0nvn/repomdc/",
     "DefaultHeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
     "RepositoryContents": [
         {
             "Name": "Clock Font IOS 16",
             "Description": "Fonts Apple Symbols. change character support MDC devices",
             "Author": {
-                "Label": "YangJiii",
+                "Label": "p0s3id0n",
                 "Links": [
                     {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
+                        "Label": "p0s3id0n",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
             },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
+            "Icon": "https://github.com/p0s3id0nvn/repomdc/raw/main/Images/RepoImages/font.png",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": "Font",
             "Caption": "Fonts Apple Symbols. change character support MDC devices",
             "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/symbols.jpg"
+                "https://github.com/p0s3id0nvn/repomdc/raw/main/Images/RepoImages/symbols.jpg"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.applesymbols1.0.misaka",
+                  "Package": "https://github.com/p0s3id0nvn/repomdc/raw/main/Files/com.p0s3id0n.applesymbols1.0.misaka",
                   "Description": "Fonts Apple Symbols. change character support MDC . devices"
               }
             ],
-            "PackageID": "com.yangjiii.applesymbols1.0"
+            "PackageID": "com.p0s3id0n.applesymbols1.0"
         },
         {
             "Name": "LS UI p0s3id0n",
             "Description": "Change camera and flash icon",
             "Author": {
-                "Label": "YangJiii",
+                "Label": "p0s3id0n",
                 "Links": [
                     {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
+                        "Label": "p0s3id0n",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
             },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
+            "Icon": "https://github.com/p0s3id0nvn/repomdc/raw/main/Images/RepoImages/lsui.png",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": "LS UI",
             "Caption": "Change camera and flash icon",
             "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuiyangjiii1.jpg"
+                "https://github.com/p0s3id0nvn/repomdc/raw/main/Images/RepoImages/lsuip0s3id0n1.jpg"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.yangjiuils.misaka",
+                  "Package": "https://github.com/p0s3id0nvn/repomdc/raw/main/Files/com.p0s3id0n.yangjiuils.misaka",
                   "Description": "Change camera and flash icon"
               }
             ],
-            "PackageID": "com.yangjiii.yangjiuils"
+            "PackageID": "com.p0s3id0n.yangjiuils"
         },
 		        {
             "Name": "Font Clock Group 1 ( IOS16 )",
             "Description": "Change clock font on ios 16",
             "Author": {
-                "Label": "YangJiii",
+                "Label": "p0s3id0n",
                 "Links": [
                     {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
+                        "Label": "p0s3id0n",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
             },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
+            "Icon": "https://github.com/p0s3id0nvn/repomdc/raw/main/Images/RepoImages/font.png",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": "Font",
             "Caption": "Change clock font on ios 16",
 			"MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.1.2",
             "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/fontclockgroup1.jpg"
+                "https://github.com/p0s3id0nvn/repomdc/raw/main/Images/RepoImages/fontclockgroup1.jpg"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.lsclockios16.1.0.misaka",
+                  "Package": "https://github.com/p0s3id0nvn/repomdc/raw/main/Files/com.p0s3id0n.lsclockios16.1.0.misaka",
                   "Description": "Change clock font on ios 16"
               }
             ],
-            "PackageID": "com.yangjiii.lsclockios16.1.0"
+            "PackageID": "com.p0s3id0n.lsclockios16.1.0"
         },
 		{
             "Name": "Radar",
             "Description": "Show internal on settings",
             "Author": {
-                "Label": "YangJiii",
+                "Label": "p0s3id0n",
                 "Links": [
                     {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
+                        "Label": "p0s3id0n",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
             },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
+            "Icon": "https://github.com/p0s3id0nvn/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": "Settings",
             "Caption": "Show internal on settings",
             "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
+                "https://github.com/p0s3id0nvn/repomdc/raw/main/Images/RepoImages/radar.jpg"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.radar.misaka",
+                  "Package": "https://github.com/p0s3id0nvn/repomdc/raw/main/Files/com.p0s3id0n.radar.misaka",
                   "Description": "Show internal on settings"
               }
             ],
-            "PackageID": "com.yangjiii.radar"
+            "PackageID": "com.p0s3id0n.radar"
         },
 		{
             "Name": "Font Clock Group 1 ( IOS 15 )",
             "Description": "Change clock font on ios 15",
             "Author": {
-                "Label": "YangJiii",
+                "Label": "p0s3id0n",
                 "Links": [
                     {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
+                        "Label": "p0s3id0n",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
             },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
+            "Icon": "https://github.com/p0s3id0nvn/repomdc/raw/main/Images/RepoImages/font.png",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": "Font",
             "Caption": "Change clock font on ios 15",
@@ -142,21 +142,21 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontclock15.1.0.misaka",
+                  "Package": "https://github.com/p0s3id0nvn/repomdc/raw/main/Files/com.p0s3id0n.fontclock15.1.0.misaka",
                   "Description": "Change clock font on ios 15"
               }
             ],
-            "PackageID": "com.yangjiii.fontclock15.1.0"
+            "PackageID": "com.p0s3id0n.fontclock15.1.0"
         },
 		{
             "Name": "Usagi Passcode",
             "Description": "Change your passcode",
             "Author": {
-                "Label": "YangJiii",
+                "Label": "p0s3id0n",
                 "Links": [
                     {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
+                        "Label": "p0s3id0n",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
             },
@@ -170,53 +170,53 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.usagipasscode.misaka",
+                  "Package": "https://github.com/p0s3id0nvn/repomdc/raw/main/Files/com.p0s3id0n.usagipasscode.misaka",
                   "Description": "Change your passcode"
               }
             ],
-            "PackageID": "com.yangjiii.usagipasscode"
+            "PackageID": "com.p0s3id0n.usagipasscode"
         },
 		{
             "Name": "LS UI NaYan",
             "Description": "Change camera and flash icon",
             "Author": {
-                "Label": "YangJiii",
+                "Label": "p0s3id0n",
                 "Links": [
                     {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
+                        "Label": "p0s3id0n",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
             },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
+            "Icon": "https://github.com/p0s3id0nvn/repomdc/raw/main/Images/RepoImages/lsui.png",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": "LS UI",
             "Caption": "Change camera and flash icon",
             "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuinayan.jpg"
+                "https://github.com/p0s3id0nvn/repomdc/raw/main/Images/RepoImages/lsuinayan.jpg"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.nayanlsui.misaka",
+                  "Package": "https://github.com/p0s3id0nvn/repomdc/raw/main/Files/com.p0s3id0n.nayanlsui.misaka",
                   "Description": "Change camera and flash icon"
               }
             ],
-            "PackageID": "com.yangjiii.nayanlsui"
+            "PackageID": "com.p0s3id0n.nayanlsui"
         },
 		{
             "Name": "Hide Dock",
             "Description": "Hide the Dock",
             "Author": {
-                "Label": "YangJiii",
+                "Label": "p0s3id0n",
                 "Links": [
                     {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
+                        "Label": "p0s3id0n",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
             },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/hidedock.png",
+            "Icon": "https://github.com/p0s3id0nvn/repomdc/raw/main/Images/RepoImages/hidedock.png",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
             "Category": "Settings",
             "Caption": "Hide the Dock",
@@ -224,11 +224,11 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.hidedock.misaka",
+                  "Package": "https://github.com/p0s3id0nvn/repomdc/raw/main/Files/com.p0s3id0n.hidedock.misaka",
                   "Description": "Hide the Dock"
               }
             ],
-            "PackageID": "com.yangjiii.hidedock"
+            "PackageID": "com.p0s3id0n.hidedock"
         }
 		
     ]
